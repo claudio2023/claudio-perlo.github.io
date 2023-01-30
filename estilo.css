@@ -1,0 +1,35 @@
+body {
+    background-color: rgba(186, 243, 243, 0.575);
+    color:rgb(25, 27, 36);
+}
+
+h1{
+    font-family: 'Moon Dance', cursive;
+    text-align: center;
+    font-weight: bold;
+    color: blue
+}
+
+h2{
+    font-family: 'Arial', cursive;
+    font-weight: bold;
+    color: blue
+}
+   
+p,ul {
+    font-family: 'Moon Dance', cursive;
+    font: size 10px;
+
+    font-weight: bold;
+    color: blue
+}
+
+button {
+    width: 80px;
+    font-size: 50px;
+   
+}
+
+  
+
+  
